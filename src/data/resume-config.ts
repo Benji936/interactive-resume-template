@@ -256,24 +256,24 @@ export const resumeConfig: ResumeConfig = {
   projects: [
     {
       id: 'project-a',
-      title: { en: 'WeatherApp', fr: 'WeatherApp' },
+      title: { en: '0nefor.one', fr: '0nefor.one' },
       description: {
-        en: 'A real-time weather dashboard built with React and OpenWeather API.',
-        fr: 'Un tableau de bord météo en temps réel construit avec React et l\'API OpenWeather.',
+        en: 'One for One is a free peer-to-peer Yu-Gi-Oh! card trading platform. Users build a trade pile and a wishlist and the platform surfaces mutual matches automatically',
+        fr: 'One for One est une plateforme de commerce de cartes Yu-Gi-Oh! peer-to-peer gratuite. Les utilisateurs construisent une pile d\'échange et une liste de souhaits, et la plateforme propose automatiquement des correspondances mutuelles.',
       },
-      techs: ['React', 'TypeScript'],
-      url: 'https://weather-app.example.com',
-      github: 'https://github.com/janedoe/weather-app',
+      techs: ['Vue', 'TypeScript'],
+      url: 'https://0nefor.one/',
+      github: 'https://github.com/Benji936/0nefor0ne',
     },
     {
       id: 'project-b',
-      title: { en: 'TaskManager', fr: 'TaskManager' },
+      title: { en: 'Sitco Partners', fr: 'Sitco Partners' },
       description: {
         en: 'A Kanban-style task management tool with drag-and-drop.',
         fr: 'Un outil de gestion de tâches style Kanban avec glisser-déposer.',
       },
-      techs: ['React', 'Node.js', 'PostgreSQL'],
-      github: 'https://github.com/janedoe/task-manager',
+      techs: ['Vue', 'Node.js', 'PostgreSQL'],
+      github: 'https://github.com/Benji936/sitco',
     },
   ],
 
