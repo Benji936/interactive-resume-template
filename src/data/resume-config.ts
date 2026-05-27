@@ -41,7 +41,7 @@ export const resumeConfig: ResumeConfig = {
   contact: [
     { type: 'github', label: 'benjaminsitbon', href: 'https://github.com/Benji936/' },
     { type: 'linkedin', label: 'Benjamin Sitbon', href: 'https://www.linkedin.com/in/benjamin-sitbon-66a389226/' },
-    { type: 'email', label: 'benjamin@example.com' },
+    { type: 'email', label: 'benjsit@gmail.com' },
     { type: 'phone', label: '+41 78 955 58 45' },
     { type: 'location', label: 'Geneva, Switzerland' },
   ],
