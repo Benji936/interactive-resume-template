@@ -269,10 +269,11 @@ export const resumeConfig: ResumeConfig = {
       id: 'project-b',
       title: { en: 'Sitco Partners', fr: 'Sitco Partners' },
       description: {
-        en: 'A Kanban-style task management tool with drag-and-drop.',
-        fr: 'Un outil de gestion de tâches style Kanban avec glisser-déposer.',
+        en: 'Executive Search Company website built with Vue.js. Features a custom CMS for content management and a dynamic team page with employee profiles.',
+        fr: 'Site web d\'une société de recherche executive construit avec Vue.js. Propose un CMS personnalisé pour la gestion du contenu et une page d\'équipe dynamique avec les profils des employés.',
       },
       techs: ['Vue', 'Node.js', 'PostgreSQL'],
+      url: 'https://www.sitcopartners.ch/',
       github: 'https://github.com/Benji936/sitco',
     },
   ],
@@ -310,7 +311,7 @@ export const resumeConfig: ResumeConfig = {
       ],
     },
   ],
-  
+
 
   // ===== PDF (optional) =====
   // Auto-detected: just drop your PDF files in public/cv/fr/ and public/cv/en/
