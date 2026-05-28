@@ -310,6 +310,7 @@ export const resumeConfig: ResumeConfig = {
       ],
     },
   ],
+  
 
   // ===== PDF (optional) =====
   // Auto-detected: just drop your PDF files in public/cv/fr/ and public/cv/en/
